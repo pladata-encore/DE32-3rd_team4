@@ -83,7 +83,7 @@
 <details>
   <summary><strong>라벨링 화면 예시</strong></summary>
 
-  ![image](https://github.com/user-attachments/assets/b9791fa2-2806-4c90-8423-2bdde76d809d)
+  ![image](https://github.com/user-attachments/assets/614f71e9-fee3-4ea5-826b-5b92d3deda6d)
 
 </details>
 
