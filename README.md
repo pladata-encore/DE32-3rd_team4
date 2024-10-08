@@ -81,7 +81,7 @@
 2. manager page 접속
 3. 강아지 이미지 라벨링
 <details>
-  <summary><strong>업로드 화면 예시</strong></summary>
+  <summary><strong>라벨링 화면 예시</strong></summary>
 
   ![image](https://github.com/user-attachments/assets/b9791fa2-2806-4c90-8423-2bdde76d809d)
 
