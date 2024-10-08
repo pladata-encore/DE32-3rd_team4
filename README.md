@@ -9,10 +9,9 @@
 2. [아키텍처 개요](#🏗️-아키텍처-개요)
 3. [주요 기능](#🎯-주요-기능)
 4. [시스템 구성 요소](#📋-시스템-구성-요소)
-5. [설치 방법](#🚀-설치-방법)
-6. [기여하기](#🤝-기여하기)
-7. [라이센스](#📄-라이센스) 
-8. [문의](#💬-문의)
+5. [설치 방법](#🚀-사용-방법)
+6. [라이센스](#📄-라이센스) 
+7. [문의](#💬-문의)
 
 ## 프로젝트 개요
 이 프로젝트는 **강아지 사진**을 업로드하고, 머신러닝 모델을 통해 해당 강아지의 **품종**을 **예측**하는 시스템입니다. <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white"/>, <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>, <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=Apache-Airflow&logoColor=white"/>, <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=Apache-Spark&logoColor=white"/>를 사용하여 이미지 업로드부터 **예측**, **집계**까지 **자동화**된 프로세스를 제공합니다. 또한, **관리자**는 이미지를 **직접 라벨링**할 수 있습니다.
@@ -64,43 +63,23 @@
 - **작업 스케줄러**: Apache Airflow
 - **데이터 처리 및 분석**: PySpark
 
-## 🚀 사용 방법(User 관점)
+## 🚀 사용 방법
 
+### User Mode
 1. Streamlit 접속(http://43.200.252.241:8501/)
-2. 강아지 이미지 업로드
+2. app esther 접속
+3. 강아지 이미지 업로드
    ![image](https://github.com/user-attachments/assets/024a9af0-61a6-4385-8bea-d159b3cae77a)
 
-
-## 🤝 기여하기
-
-Contributor은 언제나 환영합니다. Contribution을 원하시면 다음 단계를 따라주세요:)
-
-1. **레포지토리 포크**
-   - 이 프로젝트의 레포지토리를 포크하여 개인 계정으로 복사합니다.
-
-2. **새로운 브랜치 생성**
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-3. **변경 사항 커밋**
-   - 변경 사항을 추가한 뒤 커밋합니다.
-   ```bash
-   git commit -m "Add your feature"
-   ```
-4. **브랜치 푸시**
-   - 커밋한 내용을 원격 저장소에 푸시합니다.
-   ```bash
-   git push origin feature/YourFeature
-   ```
-5. **Pull Request 생성**
-   - GitHub에서 포크한 레포지토리로 가서 새로운 Pull Request를 생성합니다.
-   - 변경 사항에 대한 설명을 작성하고 리뷰를 요청합니다.
-
+### Manager Mode
+1. Streamlit 접속
+2. manager page 접속
+3. 강아지 이미지 라벨링
+   ![image](https://github.com/user-attachments/assets/b9791fa2-2806-4c90-8423-2bdde76d809d)
 
 ## 📄 라이센스
 
 이 라이센스는 소프트웨어의 사용, 복사, 수정, 병합, 출판 및 판매를 허가하며, 소프트웨어의 저작권 및 라이센스 고지를 포함해야 합니다.
-
 
 ```
 위의 마크다운 내용은 "변경 사항 커밋" 섹션을 포함한 전체적인 기여 방법을 올바르게 나타냅니다.   
