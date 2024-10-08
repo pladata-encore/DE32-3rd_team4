@@ -77,7 +77,7 @@
 </details>   
 
 ### Manager Mode
-1. Streamlit 접속
+1. Streamlit 접속(http://43.200.252.241:8501/)
 2. manager page 접속
 3. 강아지 이미지 라벨링
 <details>
@@ -88,18 +88,14 @@
 </details>
 
 ## 📄 라이센스
-
 이 라이센스는 소프트웨어의 사용, 복사, 수정, 병합, 출판 및 판매를 허가하며, 소프트웨어의 저작권 및 라이센스 고지를 포함해야 합니다.
-
-```
-위의 마크다운 내용은 "변경 사항 커밋" 섹션을 포함한 전체적인 기여 방법을 올바르게 나타냅니다.   
-필요에 따라 이 내용을 기존 리드미에 통합하시면 됩니다.
-```
 
 ## 💬 문의
 
 질문이나 제안사항이 있으면 언제든지 연락주세요🙋
+```
 - 이메일: nagazo@nagazo.com
 - GitHub: EstherCho-7, DONGUK777, Kimwonjoon, mangG907 
+```
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=footer)
