@@ -24,7 +24,7 @@
 
 ## 🏗️ 아키텍처 개요
 <details>
-  <summary><strong>아키텍처 이미지 보기</strong></summary>
+  <summary><strong>아키텍처 이미지 보기👈🏻</strong></summary>
 
   ![image](https://github.com/user-attachments/assets/02ea2818-bd7f-433e-abbf-4cda26aa7eb9)
 
@@ -70,7 +70,7 @@
 2. app esther 접속
 3. 강아지 이미지 업로드
 <details>
-  <summary><strong>업로드 화면 예시</strong></summary>
+  <summary><strong>업로드 화면 예시👈🏻</strong></summary>
 
   ![image](https://github.com/user-attachments/assets/024a9af0-61a6-4385-8bea-d159b3cae77a)
 
@@ -81,7 +81,7 @@
 2. manager page 접속
 3. 강아지 이미지 라벨링
 <details>
-  <summary><strong>라벨링 화면 예시</strong></summary>
+  <summary><strong>라벨링 화면 예시👈🏻</strong></summary>
 
   ![image](https://github.com/user-attachments/assets/614f71e9-fee3-4ea5-826b-5b92d3deda6d)
 
