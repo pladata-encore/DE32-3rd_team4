@@ -69,13 +69,23 @@
 1. Streamlit 접속(http://43.200.252.241:8501/)
 2. app esther 접속
 3. 강아지 이미지 업로드
-   ![image](https://github.com/user-attachments/assets/024a9af0-61a6-4385-8bea-d159b3cae77a)
+<details>
+  <summary><strong>업로드 화면 예시</strong></summary>
+
+  ![image](https://github.com/user-attachments/assets/024a9af0-61a6-4385-8bea-d159b3cae77a)
+
+</details>   
 
 ### Manager Mode
 1. Streamlit 접속
 2. manager page 접속
 3. 강아지 이미지 라벨링
-   ![image](https://github.com/user-attachments/assets/b9791fa2-2806-4c90-8423-2bdde76d809d)
+<details>
+  <summary><strong>업로드 화면 예시</strong></summary>
+
+  ![image](https://github.com/user-attachments/assets/b9791fa2-2806-4c90-8423-2bdde76d809d)
+
+</details>
 
 ## 📄 라이센스
 
