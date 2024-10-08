@@ -68,7 +68,7 @@
 
 1. Streamlit 접속(http://43.200.252.241:8501/)
 2. 강아지 이미지 업로드
-   - ![image](https://github.com/user-attachments/assets/024a9af0-61a6-4385-8bea-d159b3cae77a)
+   ![image](https://github.com/user-attachments/assets/024a9af0-61a6-4385-8bea-d159b3cae77a)
 
 
 ## 🤝 기여하기
